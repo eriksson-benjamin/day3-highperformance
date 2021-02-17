@@ -1,0 +1,1 @@
+I used numpy to optimize the matmult script from yesterday already.
